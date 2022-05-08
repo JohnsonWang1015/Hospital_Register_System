@@ -1,0 +1,16 @@
+{
+  "name": "web_backend",
+  "version": "1.0.0",
+  "description": "demo for web",
+  "main": "index.js",
+  "author": "Wang Chia Wei <a0903809066@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.5.0"
+  }
+}
